@@ -26,7 +26,7 @@ void sokovi(){
 	cout << "10. - Schweepes 2.5KM\n";
 	cout << "11. - Fructal 2.5KM\n";
 	cout << "12. - Cappy 3KM\n";
-    cout<<"Izlaz 0"<<endl;
+        cout << "0. - Izlaz"<<endl;
 }
 int main(){
     int meniopcija;
